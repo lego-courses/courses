@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "siteName": "كورسات الأمن السيبراني",
+    "bundle": {
+      "name": "جميع الكورسات",
+      "description": "احصل على جميع الكورسات الموجودة في المنصة من خلال باقة واحدة.",
+      "price": 999,
+      "currency": "جنيه",
+      "subscribeUrl": "https://example.com/all-courses"
+    }
+  },
+
+  "courses": [
+
+    {
+      "id": "ethical-hacking",
+      "name": "Ethical Hacking Course",
+      "title": "كورس الاختبار الاختراقي والأمن السيبراني",
+      "description": "تعلم أساسيات الاختبار الاختراقي ومفاهيم الأمن السيبراني وأمن الأنظمة والشبكات.",
+      "image": "image/ethical-hacking.jpg",
+      "courseUrl": "https://example.com/ethical-hacking",
+      "subscribeUrl": "https://example.com/subscribe-ethical-hacking",
+      "size": "4.5 GB",
+      "price": 250,
+      "currency": "جنيه",
+      "format": "Video Course",
+      "categories": [
+        "Ethical Hacking",
+        "Cyber Security",
+        "Penetration Testing"
+      ],
+      "benefits": [
+        "تعلم أساسيات Ethical Hacking",
+        "فهم أساسيات اختبار الاختراق",
+        "التعرف على مفاهيم حماية الأنظمة"
+      ]
+    },
+
+
+    {
+      "id": "linux-cyber-security",
+      "name": "Linux for Cyber Security",
+      "title": "كورس Linux للأمن السيبراني",
+      "description": "تعلم أساسيات Linux والأوامر وإدارة الملفات والعمليات المهمة لمجال الأمن السيبراني.",
+      "image": "image/linux.jpg",
+      "courseUrl": "https://example.com/linux",
+      "subscribeUrl": "https://example.com/subscribe-linux",
+      "size": "2.1 GB",
+      "price": 180,
+      "currency": "جنيه",
+      "format": "Video Course",
+      "categories": [
+        "Linux",
+        "Cyber Security"
+      ],
+      "benefits": [
+        "تعلم أوامر Linux",
+        "فهم بيئة Linux",
+        "استخدام Linux في الأمن السيبراني"
+      ]
+    },
+
+
+    {
+      "id": "network-security",
+      "name": "Network Security",
+      "title": "كورس أمن الشبكات",
+      "description": "تعلم أساسيات حماية الشبكات وفهم التهديدات والمفاهيم الأساسية في Network Security.",
+      "image": "image/network-security.jpg",
+      "courseUrl": "https://example.com/network-security",
+      "subscribeUrl": "https://example.com/subscribe-network-security",
+      "size": "3 GB",
+      "price": 220,
+      "currency": "جنيه",
+      "format": "Video Course",
+      "categories": [
+        "Network Security",
+        "Networking",
+        "Cyber Security"
+      ],
+      "benefits": [
+        "فهم أساسيات أمن الشبكات",
+        "التعرف على تهديدات الشبكات",
+        "تعلم مفاهيم Network Security"
+      ]
+    }
+
+  ]
+}
