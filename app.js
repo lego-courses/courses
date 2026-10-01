@@ -345,7 +345,7 @@ function renderCourses(list) {
                         href="course.html?id=${id}"
                         class="details-link"
                     >
-                        التفاصيل ←
+                        التفاصيل
                     </a>
 
                 </div>
