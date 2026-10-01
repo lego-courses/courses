@@ -4,25 +4,25 @@
     "bundle": {
       "name": "جميع الكورسات",
       "description": "احصل على جميع الكورسات الموجودة في المنصة من خلال باقة واحدة.",
-      "price": 999,
-      "currency": "جنيه",
-      "subscribeUrl": "https://example.com/all-courses"
+      "price": 60,
+      "currency": "دولار",
+      "subscribeUrl": "https://t.me/c/3973983646/4"
     }
   },
 
   "courses": [
 
     {
-      "id": "ethical-hacking",
-      "name": "Ethical Hacking Course",
-      "title": "كورس الاختبار الاختراقي والأمن السيبراني",
-      "description": "تعلم أساسيات الاختبار الاختراقي ومفاهيم الأمن السيبراني وأمن الأنظمة والشبكات.",
-      "image": "image/ethical-hacking.jpg",
-      "courseUrl": "https://example.com/ethical-hacking",
-      "subscribeUrl": "https://example.com/subscribe-ethical-hacking",
-      "size": "4.5 GB",
-      "price": 250,
-      "currency": "جنيه",
+      "id": "Red-team",
+      "name": "Red team",
+      "title": "كورس Red team وباللغه العربية",
+      "description": "كورس شامل تعلم أساسيات الاختبار الاختراقي ومفاهيم الأمن السيبراني وأمن الأنظمة والشبكات.",
+      "image": "image/red.jpg",
+      "courseUrl": "https://t.me/lego_courses",
+      "subscribeUrl": "https://t.me/lego_courses",
+      "size": "9.5 GB",
+      "price": 10,
+      "currency": "دولار",
       "format": "Video Course",
       "categories": [
         "Ethical Hacking",
@@ -38,25 +38,24 @@
 
 
     {
-      "id": "linux-cyber-security",
-      "name": "Linux for Cyber Security",
-      "title": "كورس Linux للأمن السيبراني",
-      "description": "تعلم أساسيات Linux والأوامر وإدارة الملفات والعمليات المهمة لمجال الأمن السيبراني.",
-      "image": "image/linux.jpg",
-      "courseUrl": "https://example.com/linux",
-      "subscribeUrl": "https://example.com/subscribe-linux",
+      "id": "Bug-Hunter",
+      "name": "إكتشاف ثغرات المواقع",
+      "title": "إكتشاف ثغرات المواقع من اكاديمية صحيح",
+      "description": "تعلم اكتشاف ثغرات المواقع كألمحترفين.",
+      "image": "image/bug.jpg",
+      "courseUrl": "https://t.me/lego_courses",
+      "subscribeUrl": "https://t.me/lego_courses",
       "size": "2.1 GB",
-      "price": 180,
-      "currency": "جنيه",
+      "price": 10,
+      "currency": "دولار",
       "format": "Video Course",
       "categories": [
-        "Linux",
+        "Bug Hunter",
         "Cyber Security"
       ],
       "benefits": [
-        "تعلم أوامر Linux",
-        "فهم بيئة Linux",
-        "استخدام Linux في الأمن السيبراني"
+        "تعلم إكتشاف الثغرات",
+        "احتراف الأمن السيبراني"
       ]
     },
 
@@ -66,12 +65,12 @@
       "name": "Network Security",
       "title": "كورس أمن الشبكات",
       "description": "تعلم أساسيات حماية الشبكات وفهم التهديدات والمفاهيم الأساسية في Network Security.",
-      "image": "image/network-security.jpg",
-      "courseUrl": "https://example.com/network-security",
-      "subscribeUrl": "https://example.com/subscribe-network-security",
-      "size": "3 GB",
-      "price": 220,
-      "currency": "جنيه",
+      "image": "image/net.jpg",
+      "courseUrl": "https://t.me/lego_courses",
+      "subscribeUrl": "https://t.me/lego_courses",
+      "size": "2.6 GB",
+      "price": 10,
+      "currency": "دولار",
       "format": "Video Course",
       "categories": [
         "Network Security",
