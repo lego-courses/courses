@@ -259,7 +259,7 @@ function renderCourses(list) {
         const price =
             Number(course.price) === 0
             ? "مجاني"
-            : `${escapeHTML(course.price)} ${escapeHTML(course.currency || "جنيه")}`;
+            : `${escapeHTML(course.price)} ${escapeHTML(course.currency || "دولار")}`;
 
 
         card.innerHTML = `
@@ -608,7 +608,7 @@ function renderCourse(course) {
     const price =
         Number(course.price) === 0
         ? "مجاني"
-        : `${escapeHTML(course.price)} ${escapeHTML(course.currency || "جنيه")}`;
+        : `${escapeHTML(course.price)} ${escapeHTML(course.currency || "دولار")}`;
 
 
     container.innerHTML = `
